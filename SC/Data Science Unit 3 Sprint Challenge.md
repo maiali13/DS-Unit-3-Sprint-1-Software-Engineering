@@ -267,6 +267,30 @@ career here, you'll have to answer the following:
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
+
+I appreciate code reviews because the feedback allows me to improve my
+programming skill. When I review other's code, I first make sure that their
+code is clear. This means making sure that they are leaving comments/docfiles,
+and show consistency in their syntax. I also look to see if their code
+is concise and efficient. Likewise, knowing that others will look at my
+code drives me to also be consistent, add more comments, and generally try
+and follow best practices.
+
+Containers across all computers in an organization would improve the given
+situation because the containers allow for the creation of a cheap,
+lightweight, standardized environment to run code/programs. Each person's
+individual software, OS, and configurations won't effect how the
+code performs, allowing it to be developed in a sterile environment.
+This means that the code is both more secure and reliable/reproducible.
+VMs might be considered as an alternative to containers, but containers
+are usually the better option because they require less resources to run
+and setup, which means that less time and money is spent on running them.
+
+Therefore by improving reliability, code reviewing and the use of containers for
+development strengthen the "codebase" of the organization they are utilized by.
+
+
+
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
